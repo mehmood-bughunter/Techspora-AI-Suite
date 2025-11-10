@@ -1,0 +1,7 @@
+{
+  "name": "Techspora AI Suite",
+  "description": "An all-in-one digital service partner app featuring real-time AI conversation with Gemini Live and high-quality image generation with Imagen.",
+  "requestFramePermissions": [
+    "microphone"
+  ]
+}
